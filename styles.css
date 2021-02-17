@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+.header{
+    display: flex;
+    height: 400px;
+    background-image: url(woodbg.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    
+
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.paragraph{
+    color: white;
+    display: flexbox;
+    height: 400px;
+    background-image: url(woodbg.PNG);
+    background-repeat: no-repeat;
+    background-size: 2400px 14000px;
+    text-align: center;
+    font-size: 30px;
+}
+.flex-container{
+display: flex;
+font-weight:bold;
+}
+.flexbox-item-1{
+    display: grid;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+     
+    background-color: burlywood;
+    
+}
+.flexbox-item-2{
+    display: grid;
+    background-color: rgb(39, 235, 65);
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+     
+}
+.flexbox-item-3{
+    display: grid;
+    background-color: aqua;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-4{
+    display: grid;
+    background-color:rgb(216, 216, 17);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-5{
+    display: grid;
+    background-color: darkolivegreen;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
+.flexbox-item-6{
+    display: grid;
+    background-color: darkslategrey;
+    width: 193px;
+    height: 350px;
+    margin: 5px;
+    border: 5px solid black;
+    text-align:center;
+
+}
